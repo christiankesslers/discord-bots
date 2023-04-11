@@ -14,4 +14,4 @@ async def dice(ctx, rn=6):
     await ctx.send(f'Score: {random.randint(1,rn)}')
 
 
-client.run('NzY0MjI4NzU1NDQ3MDg3MTQ0.X4DNfQ.LZ84CynqYkuJYhnMk5Z47DpNW20')
+client.run('wxLQD3PsuW3CmtyIdFv_LBpHc2xpGmF2q5zyAjBHdvyqgYrPnESRvamfkPpdffNOyYyM')
